@@ -150,6 +150,6 @@ def reskin_villages(base_dir, out_dir):
 # -------------------------------
 if __name__ == "__main__":
     reskin_villages(
-        base_dir="path/to/village",  # e.g. data/minecraft/structures/village
-        out_dir="path/to/village"    # where themed villages will be written
+        base_dir="/data/minecraft/structures/village",  
+        out_dir="/data/morevillages/structures/village"    
     )
