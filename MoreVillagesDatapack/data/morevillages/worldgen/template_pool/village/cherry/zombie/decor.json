@@ -71,7 +71,7 @@
     {
       "element": {
         "element_type": "minecraft:feature_pool_element",
-        "feature": "minecraft:patch_cherry_grass",
+        "feature": "minecraft:patch_taiga_grass",
         "projection": "rigid"
       },
       "weight": 4

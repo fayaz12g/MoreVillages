@@ -1,0 +1,6 @@
+{
+  "type": "morevillages:pale_mansion",
+  "biomes": "#minecraft:has_structure/pale_mansion",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

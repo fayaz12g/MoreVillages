@@ -1,0 +1,9 @@
+{
+  "feature": "morevillages:cherry_grass",
+  "placement": [
+    { "type": "count", "count": 25 },
+    { "type": "in_square" },
+    { "type": "heightmap", "heightmap": "WORLD_SURFACE_WG" },
+    { "type": "biome" }
+  ]
+}
