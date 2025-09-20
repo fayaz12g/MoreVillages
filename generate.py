@@ -5,24 +5,29 @@ from nbtlib import load, File
 # -------------------------------
 # Build wood replacement map
 # -------------------------------
-def build_wood_map(wood):
+def build_wood_map(wood_id):
+    """
+    wood_id: string like 'minecraft:cherry' or 'morevillages:palm'
+    """
+    namespace, wood = wood_id.split(":")
     return {
-        "minecraft:oak_planks": f"minecraft:{wood}_planks",
-        "minecraft:oak_log": f"minecraft:{wood}_log",
-        "minecraft:stripped_oak_log": f"minecraft:stripped_{wood}_log",
-        "minecraft:oak_wood": f"minecraft:{wood}_wood",
-        "minecraft:stripped_oak_wood": f"minecraft:stripped_{wood}_wood",
-        "minecraft:oak_stairs": f"minecraft:{wood}_stairs",
-        "minecraft:oak_slab": f"minecraft:{wood}_slab",
-        "minecraft:oak_fence": f"minecraft:{wood}_fence",
-        "minecraft:oak_fence_gate": f"minecraft:{wood}_fence_gate",
-        "minecraft:oak_door": f"minecraft:{wood}_door",
-        "minecraft:oak_trapdoor": f"minecraft:{wood}_trapdoor",
-        "minecraft:oak_button": f"minecraft:{wood}_button",
-        "minecraft:oak_pressure_plate": f"minecraft:{wood}_pressure_plate",
-        "minecraft:oak_sign": f"minecraft:{wood}_sign",
-        "minecraft:oak_hanging_sign": f"minecraft:{wood}_hanging_sign",
+        "minecraft:oak_planks": f"{namespace}:{wood}_planks",
+        "minecraft:oak_log": f"{namespace}:{wood}_log",
+        "minecraft:stripped_oak_log": f"{namespace}:stripped_{wood}_log",
+        "minecraft:oak_wood": f"{namespace}:{wood}_wood",
+        "minecraft:stripped_oak_wood": f"{namespace}:stripped_{wood}_wood",
+        "minecraft:oak_stairs": f"{namespace}:{wood}_stairs",
+        "minecraft:oak_slab": f"{namespace}:{wood}_slab",
+        "minecraft:oak_fence": f"{namespace}:{wood}_fence",
+        "minecraft:oak_fence_gate": f"{namespace}:{wood}_fence_gate",
+        "minecraft:oak_door": f"{namespace}:{wood}_door",
+        "minecraft:oak_trapdoor": f"{namespace}:{wood}_trapdoor",
+        "minecraft:oak_button": f"{namespace}:{wood}_button",
+        "minecraft:oak_pressure_plate": f"{namespace}:{wood}_pressure_plate",
+        "minecraft:oak_sign": f"{namespace}:{wood}_sign",
+        "minecraft:oak_hanging_sign": f"{namespace}:{wood}_hanging_sign",
     }
+
 
 # -------------------------------
 # Stone family definitions
@@ -103,16 +108,16 @@ def reskin_nbt(path, out_path, replacements):
 # Full theme mapping
 # -------------------------------
 VILLAGE_THEMES = {
-    "cherry":        {"wood": "cherry",      "stone": "deepslate", "base": "taiga"},
-    "birch":         {"wood": "birch",       "stone": "diorite",   "base": "plains"},
-    "dark_oak":      {"wood": "dark_oak",    "stone": "granite",   "base": "savanna"},
-    "pale_oak":      {"wood": "pale_oak",    "stone": "andesite",  "base": "savanna"},
-    "bamboo_jungle": {"wood": "bamboo",      "stone": "stone",     "base": "jungle"},
-    "mangrove":      {"wood": "mangrove",    "stone": "stone",     "base": "swamp"},
-    "beach":         {"wood": "palm",        "stone": "sandstone", "base": "plains"},  # palm = custom set
-    "stony_shore":   {"wood": "oak",         "stone": "andesite",  "base": "plains"},
-    "badlands":      {"wood": "oak",         "stone": "granite",   "base": "desert"},
-    "ice_spikes":    {"wood": "spruce",      "stone": "stone",     "base": "snowy"},
+    "cherry":        {"wood": "minecraft:cherry",   "stone": "deepslate", "base": "taiga"},
+    "birch":         {"wood": "minecraft:birch",    "stone": "diorite",   "base": "plains"},
+    "dark_oak":      {"wood": "minecraft:dark_oak", "stone": "granite",   "base": "savanna"},
+    "pale_oak":      {"wood": "minecraft:pale_oak", "stone": "andesite",  "base": "savanna"},
+    "bamboo_jungle": {"wood": "minecraft:bamboo",   "stone": "stone",     "base": "jungle"},
+    "mangrove":      {"wood": "minecraft:mangrove", "stone": "stone",     "base": "swamp"},
+    "beach":         {"wood": "morevillages:palm",  "stone": "sandstone", "base": "plains"},
+    "stony_shore":   {"wood": "minecraft:oak",      "stone": "andesite",  "base": "plains"},
+    "badlands":      {"wood": "minecraft:oak",      "stone": "granite",   "base": "desert"},
+    "ice_spikes":    {"wood": "minecraft:spruce",   "stone": "stone",     "base": "snowy"},
 }
 
 # -------------------------------
