@@ -1,0 +1,326 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_small_house_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_small_house_2",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_small_house_3",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_small_house_4",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_small_house_5",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_small_house_6",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_small_house_7",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_small_house_8",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_medium_house_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_medium_house_2",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_big_house_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_butcher_shop_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_butcher_shop_2",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_tool_smith_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_fletcher_house_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_shepherds_house_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_armorer_house_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_fisher_cottage_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_tannery_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_cartographer_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_library_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_library_2",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_masons_house_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_weaponsmith_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_temple_3",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_temple_4",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_stable_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_stable_2",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_large_farm_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_small_farm_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_animal_pen_1",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/houses/birch_animal_pen_2",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_animal_pen_3",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 5
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_meeting_point_4",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "morevillages:village/birch/zombie/houses/birch_meeting_point_5",
+        "processors": "minecraft:zombie_plains",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      },
+      "weight": 10
+    }
+  ],
+  "fallback": "morevillages:village/birch/terminators"
+}

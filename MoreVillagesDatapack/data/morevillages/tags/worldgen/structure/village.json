@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:village_plains",
+    "minecraft:village_desert",
+    "minecraft:village_savanna",
+    "minecraft:village_snowy",
+    "minecraft:village_taiga",
+    "morevillages:village_cherry",
+    "morevillages:village_birch",
+    "morevillages:village_dark_oak",
+    "morevillages:village_pale_oak",
+    "morevillages:village_bamboo_jungle",
+    "morevillages:village_mangrove",
+    "morevillages:village_beach",
+    "morevillages:village_stony_shore",
+    "morevillages:village_badlands",
+    "morevillages:village_ice_spikes"
+  ]
+}
