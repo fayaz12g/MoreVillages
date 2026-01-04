@@ -15,7 +15,7 @@ VILLAGE_THEMES = {
     "ice_spikes":    {"biomes": ["minecraft:ice_spikes"]},
 }
 
-MOD_NS = "morevillages"
+MOD_NS = "more-villages"
 
 def reskin_tags(base_dir="./data/minecraft", out_dir="./data/morevillages"):
     # Biome tags folder

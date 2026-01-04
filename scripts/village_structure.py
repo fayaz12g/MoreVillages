@@ -126,7 +126,7 @@ VILLAGE_THEMES = {
     "pale_oak":      {"wood": "minecraft:pale_oak", "stone": "andesite",  "base": "savanna"},
     "bamboo_jungle": {"wood": "minecraft:bamboo",   "stone": "stone",     "base": "plains"},
     "mangrove":      {"wood": "minecraft:mangrove", "stone": "stone",     "base": "plains"},
-    "beach":         {"wood": "morevillages:palm",  "stone": "sandstone", "base": "plains"},
+    "beach":         {"wood": "more-villages:palm",  "stone": "sandstone", "base": "plains"},
     "stony_shore":   {"wood": "minecraft:oak",      "stone": "andesite",  "base": "plains"},
     "badlands":      {"wood": "minecraft:oak",      "stone": "granite",   "base": "desert"},
     "ice_spikes":    {"wood": "minecraft:spruce",   "stone": "stone",     "base": "snowy"},

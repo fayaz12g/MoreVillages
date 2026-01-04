@@ -16,7 +16,7 @@ VILLAGE_THEMES = {
     "ice_spikes":    {"wood": "minecraft:spruce",   "stone": "stone",     "base": "snowy"},
 }
 
-MOD_NS = "morevillages"  # output namespace used for new structure references
+MOD_NS = "more-villages"  # output namespace used for new structure references
 
 
 def replace_in_string(s: str, base: str, theme: str, mod_ns: str = MOD_NS) -> str:
